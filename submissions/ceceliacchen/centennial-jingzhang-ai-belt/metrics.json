@@ -264,9 +264,13 @@
         "geometry/key_areas.geojson"
       ],
       "formula": "projected_area(zhongzhiyuan key area)",
-      "confidence": "low",
+      "confidence": "medium",
       "assumptions": [
         "临时边界；公告口径约 192.1 ha，仅为方向性参考。"
+      ],
+      "source_refs": [
+        "KEY-AREA-SOURCE",
+        "OFFICIAL-ANNOUNCEMENT"
       ]
     },
     "key_area_beijing_ai_origin_sqm": {
@@ -278,9 +282,13 @@
         "geometry/key_areas.geojson"
       ],
       "formula": "projected_area(beijing ai origin key area)",
-      "confidence": "low",
+      "confidence": "medium",
       "assumptions": [
         "临时边界；公告口径约 104.3 ha，仅为方向性参考。"
+      ],
+      "source_refs": [
+        "KEY-AREA-SOURCE",
+        "OFFICIAL-ANNOUNCEMENT"
       ]
     },
     "key_area_dazhongsi_sqm": {
@@ -292,9 +300,13 @@
         "geometry/key_areas.geojson"
       ],
       "formula": "projected_area(dazhongsi key area)",
-      "confidence": "low",
+      "confidence": "medium",
       "assumptions": [
         "临时边界；公告口径约 72.0 ha，仅为方向性参考。"
+      ],
+      "source_refs": [
+        "KEY-AREA-SOURCE",
+        "OFFICIAL-ANNOUNCEMENT"
       ]
     },
     "ai_service_node_count": {

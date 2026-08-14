@@ -13,7 +13,8 @@
       "usable_for_formal": "yes",
       "license": "official-public",
       "cleared": true,
-      "notes": "公告明确三层范围、设计任务与成果深度，作为方案总体依据。"
+      "notes": "公告明确三层范围、设计任务与成果深度，作为方案总体依据。",
+      "id": "OFFICIAL-ANNOUNCEMENT"
     },
     {
       "source_id": "AGENT-TASKBOOK",
@@ -27,7 +28,8 @@
       "usable_for_formal": "yes",
       "license": "official-public",
       "cleared": true,
-      "notes": "六项智能体任务、三大定位、五大功能、三区两翼与统一边界条款。"
+      "notes": "六项智能体任务、三大定位、五大功能、三区两翼与统一边界条款。",
+      "id": "AGENT-TASKBOOK"
     },
     {
       "source_id": "SITE-PACKAGE",
@@ -41,7 +43,8 @@
       "usable_for_formal": "yes",
       "license": "open-data",
       "cleared": true,
-      "notes": "设计简要、允许设计空间、规划限值、枚举与视觉风格建议。"
+      "notes": "设计简要、允许设计空间、规划限值、枚举与视觉风格建议。",
+      "id": "SITE-PACKAGE"
     },
     {
       "source_id": "BOUNDARY-SOURCE",
@@ -55,7 +58,8 @@
       "usable_for_formal": "provisional_only",
       "license": "open-data",
       "cleared": true,
-      "notes": "临时约束边界，不得作为官方红线或精确面积依据；替换官方 polygon 后需重算。"
+      "notes": "临时约束边界，不得作为官方红线或精确面积依据；替换官方 polygon 后需重算。",
+      "id": "BOUNDARY-SOURCE"
     },
     {
       "source_id": "KEY-AREA-SOURCE",
@@ -69,7 +73,8 @@
       "usable_for_formal": "provisional_only",
       "license": "open-data",
       "cleared": true,
-      "notes": "三区面积以公告为准（192.1/104.3/72.0 ha），本方案几何为方向性占位。"
+      "notes": "三区面积以公告为准（192.1/104.3/72.0 ha），本方案几何为方向性占位。",
+      "id": "KEY-AREA-SOURCE"
     },
     {
       "source_id": "SOURCE-REGISTRY",
@@ -83,7 +88,8 @@
       "usable_for_formal": "yes",
       "license": "open-data",
       "cleared": true,
-      "notes": "维护者共享资料目录；本包 sources.json 为参赛者自采使用的完整登记。"
+      "notes": "维护者共享资料目录；本包 sources.json 为参赛者自采使用的完整登记。",
+      "id": "SOURCE-REGISTRY"
     },
     {
       "source_id": "STANDARDS-MOHURD",
@@ -97,7 +103,8 @@
       "usable_for_formal": "yes",
       "license": "official-public",
       "cleared": true,
-      "notes": "城市设计管理办法、控规编制审批办法、用地分类指南等。"
+      "notes": "城市设计管理办法、控规编制审批办法、用地分类指南等。",
+      "id": "STANDARDS-MOHURD"
     },
     {
       "source_id": "CASE-REFERENCE",
@@ -111,7 +118,8 @@
       "usable_for_formal": "background_only",
       "license": "background",
       "cleared": false,
-      "notes": "用于背景与机制借鉴，不支撑空间控制结论。"
+      "notes": "用于背景与机制借鉴，不支撑空间控制结论。",
+      "id": "CASE-REFERENCE"
     },
     {
       "source_id": "PROCESSED-FACT-PACK",
@@ -125,7 +133,8 @@
       "usable_for_formal": "provisional_only",
       "license": "open-data",
       "cleared": true,
-      "notes": "由公开资料汇编的派生事实包；仅作方向性支撑，须经官方资料复核后方可作为正式依据。"
+      "notes": "由公开资料汇编的派生事实包；仅作方向性支撑，须经官方资料复核后方可作为正式依据。",
+      "id": "PROCESSED-FACT-PACK"
     }
   ]
 }

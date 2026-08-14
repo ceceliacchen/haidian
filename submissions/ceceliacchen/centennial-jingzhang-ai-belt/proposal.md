@@ -261,6 +261,11 @@ iteration: "v1.0"
 
 以"钢轨—算力"为隐喻主线：1909 年中国人自主设计建造的京张铁路代表**工程自立、精密、可验证**的精神；2026 年 AI 原点代表**开源、可演化、可共享**的精神 [source:OFFICIAL-ANNOUNCEMENT]。两个精神在空间上交汇于京张原点站（开源发布厅）、众智云厅（中试工场）与智眸塔（治理廊），构成"记忆—创新—治理"的三段叙事。胡同文化、京味生活与开发者文化并置，老站房、老厂房、老社区与新云厅、新街区、新钟楼并置，避免把概念地标表述为已批建。
 
+### 国际传播与可转译性
+
+- **国际传播**：方案以中英双语叙事（`proposal.md` / `proposal.en.md`、`report/proposal.html` / `proposal.en.html`）面向全球开发者、研究者与访客；年度蓝皮书与京张 AI 创新周设国际分会场，强化海淀作为全球 AI 创新源点的对外表达 [source:SITE-PACKAGE] [source:OFFICIAL-ANNOUNCEMENT]。
+- **可转译性（transformability）**：场景卡、品牌 VI、实施矩阵与组件库均采用模块化、开源可复用结构（`visual/assets/*`），其"铁路遗产—智能原生"更新范式可转译至其他铁路遗产型与科创型城区 [depth:scenario_cards]。
+
 ## 更新项目清单、实施政策与分期计划
 
 更新项目按"基础设施—公共空间—产业载体—社区生活"四类，对应 `design_depth_matrix.json#renewal_project_list` [depth:renewal_project_list]。 [data:geometry/phasing.geojson#PHASE-001]。 [data:geometry/phasing.geojson#PHASE-002]。 [data:geometry/phasing.geojson#PHASE-003]。
@@ -272,6 +277,10 @@ iteration: "v1.0"
 | 三期（phase_3） | 大钟寺 AI 产业聚集区 + 外围联动  | ~2,600,000 | 数据要素剧场 + 治理廊 + 街区四象限 | 古刹视线通廊 |
 
 > 分期面积为基于临时边界与假设开发模型的**概念性量级估算**，非法定分期或工程投资结论，须经专业团队以官方资料复核后采用。
+
+**实施主体与协同治理**：分期实施由海淀区政府 / 中关村科学城管委会统筹牵头，联合实施主体包括区属国企与平台公司、高校与科研院所（清华、北大、中科院等）、AI 企业与开源社区、街道办事处与社区组织及居民代表，按"政府引导—市场运作—公众参与"协同推进 [depth:scenario_cards] [source:AGENT-TASKBOOK]。
+
+**可衡量指标与年度监测**：以年度为单位监测 开放场景节点数（目标 ≥14）、年度活动参与人次、公众与开发者满意度（问卷目标 ≥4.0/5）、AI 场景覆盖率、开源协作贡献量等，纳入年度蓝皮书并交由资质团队复核 [metric:ai_service_node_count] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]。
 
 ### 年度活动体系（长期运营）
 
@@ -321,12 +330,12 @@ iteration: "v1.0"
 本方案配套的深化交付物（均为概念级，须经资质团队与官方资料复核）：
 
 - 场景卡：`visual/assets/scenario-cards.json`、`report/narrative.md`
-- 品牌与生态：`report/narrative.md`、`visual/assets/logo.svg`、`report/narrative.md`、`report/narrative.md`、`report/narrative.md`
-- 术语一致：`visual/assets/visual/assets/glossary.json`、`report/narrative.md`
-- 实施运营：`visual/assets/visual/assets/implementation-matrix.json`、`report/narrative.md`
-- 公共空间：`visual/assets/visual/assets/component-library.json`、`report/narrative.md`
-- 参与治理：`report/narrative.md`、`report/narrative.md`
-- 蓝绿与传播：`report/narrative.md`、`report/narrative.md`
+- 品牌与生态：`visual/assets/logo.svg`、`report/narrative.md`
+- 术语一致：`visual/assets/glossary.json`、`report/narrative.md`
+- 实施运营：`visual/assets/implementation-matrix.json`、`report/narrative.md`
+- 公共空间：`visual/assets/component-library.json`、`report/narrative.md`
+- 参与治理：`report/narrative.md`
+- 蓝绿与传播：`report/narrative.md`
 
 > 所有交付物中的主体均为拟议 / 待协商，指标为方向性估算或参数化演示。
 
